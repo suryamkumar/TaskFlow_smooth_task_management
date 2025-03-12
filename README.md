@@ -15,7 +15,6 @@ TaskFlow is a task and project management application designed to streamline wor
 - ✅ **Task Boards** for visual organization of activities and projects in Teams.
 
 ## 📸 Screenshots
-_Add screenshots here_
 
 ## 📂 Installation
 ```sh
